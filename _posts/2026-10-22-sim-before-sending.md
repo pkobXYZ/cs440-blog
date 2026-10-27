@@ -30,7 +30,7 @@ the lack of losses as something we can rely on.
 
 ## Connections
 
-Like [Unlocking ECMP Programmability for Precise Traffic Control]({% post_url 2026-10-08-unlocking-ecmp-prog %}),
+Like [Unlocking ECMP Programmability for Precise Traffic Control]({{ site.baseurl }}{% post_url 2026-10-08-unlocking-ecmp-prog %}),
 this paper works around ECMP randomness without replacing switches.
 However, dcSim tests random paths rather than making next-hop selection
 deterministic. Perhaps randomness is less of a problem if we can test
