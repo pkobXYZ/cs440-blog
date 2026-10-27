@@ -26,7 +26,7 @@ have to be done on these two problems.
 
 ## Connections
 
-Like in [Simulate Before Sending: Rethinking Transport in Datacenter Networks]({% post_url 2026-10-22-sim-before-sending.md %}),
+Like in [Simulate Before Sending: Rethinking Transport in Datacenter Networks]({% post_url 2026-10-22-sim-before-sending %}),
 this paper uses a simulated network to tests its transport architecture. It also
 goes one step further and tests on a small physical network. The paper still falls
 short of testing on a full blown datacenter. It will be interesting to see how the
